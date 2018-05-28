@@ -1,0 +1,19 @@
+{
+  "name": "domcurse",
+  "version": "0.0.1",
+  "description": "Custom, configurable DOM parsing of custom documents",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/donniereese/DOMcurse.git"
+  },
+  "author": "Donnie Reese <hi@donniereese.com> (https://www.donniereese.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/donniereese/DOMcurse/issues"
+  },
+  "homepage": "https://github.com/donniereese/DOMcurse#readme"
+}
